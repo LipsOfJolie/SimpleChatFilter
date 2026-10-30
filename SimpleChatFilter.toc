@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Simple Chat Filter
+## Notes: Простой фильтр чата по стоп-словам
+## Author: Beavis - Solo при поддержке ChatGpt и Claude
+## Version: 1.1s
+## SavedVariables: SimpleChatFilterDB
+
+SimpleChatFilter.lua
+icon.tga
